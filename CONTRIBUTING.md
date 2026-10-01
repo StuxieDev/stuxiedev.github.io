@@ -1,6 +1,6 @@
 # Contributing to stuxiedev.github.io
 
-This is a minimal GitHub Pages redirect page (`index.html`) that forwards visitors from `stuxiedev.github.io` to [stuxie.dev](https://www.stuxie.dev/). This document is for anyone working on the redirect page itself.
+This is a minimal GitHub Pages redirect page (`index.html`) that forwards visitors from `stuxiedev.github.io` to [stuxie.dev](https://stuxie.dev/). This document is for anyone working on the redirect page itself.
 
 ## Local setup
 

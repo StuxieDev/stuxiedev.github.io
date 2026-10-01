@@ -4,4 +4,4 @@
 
 # stuxiedev.github.io
 
-GitHub Pages redirect that sends visitors of `stuxiedev.github.io` to [www.stuxie.dev](https://www.stuxie.dev/).
+GitHub Pages redirect that sends visitors of `stuxiedev.github.io` to [stuxie.dev](https://stuxie.dev/).

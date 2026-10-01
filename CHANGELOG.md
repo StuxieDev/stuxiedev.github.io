@@ -5,6 +5,12 @@ All notable changes to stuxiedev.github.io are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.1.1
+
+### Changed
+
+- The redirect goes to `https://stuxie.dev/` instead of `https://www.stuxie.dev/`
+
 ## v1.1.0
 
 ### Added
